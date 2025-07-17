@@ -1,3 +1,47 @@
+# 💫 Hi 👋, I'm Abhinav Gupta
+
+A passionate **Full-Stack Developer**, **Problem Solver**, and **Tech Enthusiast** from India 🇮🇳
+
+## 📩 Contact Me
+📧 **Email:** abhinavgupta.ec20@iiitbh.ac.in  
+Feel free to reach out for **collaborations**, **project ideas**, or just to say hi! 😊
+
+## 🔭 Currently Working On
+- 🤖 **Reddit AI Assistant Chrome Extension** – A browser extension that enhances Reddit using AI capabilities.
+
+## 🌱 Currently Learning
+
+- 🏗️ **System Design**
+- 💻 **TypeScript**
+- ⚡ **Next.js** – For building scalable and performant frontend architectures.
+
+## 👯 Looking to Collaborate On
+
+- 🧩 **Real-time applications**
+- 🌐 **Social platforms**
+- 🛠️ **Innovative full-stack projects**
+
+## 🤔 Looking For Help With
+- 📚 **Improving my DSA skills**
+- ☁️ **Getting deeper into cloud deployments**
+
+## 💬 Ask Me About
+
+- 🔧 **MERN Stack**
+- 💬 **Socket.IO**
+- 🎨 **Tailwind CSS**
+- 📁 **GitHub project structure**
+- 💼 **Internship preparation**
+
+## 📫 How to Reach Me
+📧 **abhinavgupta.ec20@iiitbh.ac.in**
+
+## 😄 Pronouns
+**He/Him**
+
+## ⚡ Fun Fact
+I love solving tough problems—whether it's debugging code or cracking a **LeetCode** challenge! 🚀
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinav_g203) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-gupta-718b8a256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinav.2201146ec@iiitbh.ac.in) 
