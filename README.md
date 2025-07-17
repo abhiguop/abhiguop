@@ -3,7 +3,7 @@
 A passionate **Full-Stack Developer**, **Problem Solver**, and **Tech Enthusiast** from India 🇮🇳
 
 ## 📩 Contact Me
-📧 **Email:** abhinavgupta.ec20@iiitbh.ac.in  
+📧 **Email:** abhinav.2201146ec@iiitbh.ac.in  
 Feel free to reach out for **collaborations**, **project ideas**, or just to say hi! 😊
 
 ## 🔭 Currently Working On
