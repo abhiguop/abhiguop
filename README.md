@@ -33,12 +33,6 @@ Feel free to reach out for **collaborations**, **project ideas**, or just to say
 - 📁 **GitHub project structure**
 - 💼 **Internship preparation**
 
-## 📫 How to Reach Me
-📧 **abhinavgupta.ec20@iiitbh.ac.in**
-
-## 😄 Pronouns
-**He/Him**
-
 ## ⚡ Fun Fact
 I love solving tough problems—whether it's debugging code or cracking a **LeetCode** challenge! 🚀
 
